@@ -1,0 +1,384 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+/* header qismi */
+.container {
+   width: 1440px;
+   margin: 0 auto;
+   left: auto;
+   background: rgb(241, 233, 233);
+}
+
+.header-container {
+   display: flex;
+   padding-top: 47px;
+   padding-left: 127px;
+}
+
+.header-inner {
+   list-style-type: none;
+   display: flex;
+   margin-left: 27px;
+}
+
+.sanjar {
+   text-decoration: none;
+   color: #7A7A7A;
+}
+
+span {
+   color: #285193;
+}
+
+.header-ussd {
+   margin-left: 20px;
+}
+
+.stale {
+   margin-left: 21px;
+}
+
+.search {
+   margin-left: 311px;
+}
+
+button {
+   margin-left: 35px;
+   background: #5e95ee;
+   width: 146px;
+   height: 40px;
+}
+
+.class {
+   ;
+   text-decoration: none
+}
+
+.inner {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 19px;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+/* nav qismi */
+.text {
+   list-style-type: none;
+   display: flex;
+}
+
+.style {
+   margin-top: 20px;
+   margin-left: 50px;
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 19px;
+   line-height: 23px;
+   color: #515151;
+}
+
+nav {
+   width: 1220px;
+   height: 67px;
+   background: white;
+   margin-top: 44px;
+   margin-left: 119px;
+}
+
+.rasim {
+   margin-top: 18px;
+   margin-left: 119px;
+}
+
+/* section qismi */
+.section-container {
+   width: 1440px;
+   margin: auto;
+   left: auto;
+   background: white;
+}
+
+.section-container-inner {
+   width: 1200px;
+   height: 133px;
+   background: rgb(241, 233, 233);
+   margin-left: 119px;
+   margin-top: 22px;
+}
+
+.section-text {
+   list-style-type: none;
+   display: flex;
+}
+
+.section-text-inner {
+   display: flex;
+   margin-top: 44px;
+}
+
+.top {
+   margin-left: 55px;
+}
+
+.box-shedow {
+   margin-left: 25px;
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 24px;
+   color: #000000;
+}
+
+.one {
+   color: #DB0000;
+}
+
+.two {
+   color: #05B135;
+}
+
+.three {
+   color: #000000;
+}
+
+.new-line {
+   display: flex;
+   margin-left: 119px;
+   margin-top: 18px;
+}
+
+.bir {
+   margin-left: 20px;
+}
+
+.next-line {
+   display: flex;
+   margin-left: 119px;
+   margin-top: 18px;
+}
+
+.ikki {
+   margin-left: 20px;
+}
+
+.title {
+   margin-left: 26px;
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 17px;
+   line-height: 20px;
+
+   color: #202020;
+
+}
+
+.inner-title {
+   margin-left: 26px;
+}
+
+.oraliq {
+   margin-left: 26px;
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #6B6D97;
+   margin-top: 11px
+}
+
+.second-nav {
+   width: 1200px;
+   height: 91px;
+   background: bisque;
+   margin-left: 119px;
+   margin-top: 39px;
+   display: flex;
+}
+
+.second-next-nav {
+   width: 264px;
+   height: 42px;
+   background: chocolate;
+   margin-top: 25px;
+   margin-left: 226px;
+}
+
+.chiziq {
+   text-decoration: none;
+   color: white;
+}
+
+.call {
+   width: 29px;
+   height: 34px;
+   margin-top: 28px;
+   margin-left: 34px;
+}
+
+.next-nav {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 24px;
+   color: #000000;
+   margin-top: 33px;
+   margin-left: 31px;
+}
+
+h3 {
+   margin-top: 38px;
+   margin-left: 119px;
+   width: 810px;
+}
+
+.pictures {
+   margin-top: 13px;
+   margin-left: 119px;
+}
+
+.the-text-part {
+   width: 813px;
+   display: flex;
+}
+
+.to-the-pictures {
+   margin-top: 13px;
+   margin-left: 19px;
+}
+
+.text-pictures {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 18px;
+   color: #434343;
+}
+
+.bector {
+   text-decoration: none;
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #7688A4;
+}
+
+.vector {
+   width: 211px;
+   height: 42px;
+   background: #295093;
+   margin-left: 414px;
+   margin-top: 18px;
+}
+
+.vector-button {
+   text-decoration: none;
+   margin-top: 5px;
+   color: white;
+}
+
+.adjective {
+   width: 1200px;
+   height: 214px;
+   background: #F6F6F9;
+   margin-left: 119px;
+   margin-top: 38px;
+   display: flex;
+}
+
+.teliphone {
+   margin-top: 37px;
+   margin-left: 19px;
+   display: flex;
+}
+
+.noun {
+   margin-top: 64px;
+
+   color: #295093;
+}
+
+.domestic {
+   display: flex;
+
+}
+
+.noun-style {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 21px;
+   margin-top: 10px;
+   color: #333333;
+}
+
+.google {
+   margin-left: 62px;
+   margin-top: 82px;
+}
+
+.appstore {
+   margin-left: 22px;
+   margin-top: 82px;
+}
+
+.footer-container {
+   width: 1440px;
+   height: 225px;
+   background: #295093;
+   margin-top: 38px;
+}
+
+.footer-button {
+   width: 194px;
+   height: 38px;
+   background: #133C82;
+   border-radius: 5px;
+   margin-top: 18px;
+   margin-left: 119px;
+}
+
+.footer-class {
+   text-decoration: none;
+   color: #FFFFFF
+}
+
+.footer-text {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 17px;
+   color: #FFFFFF;
+   margin-left: 198px;
+   margin-top: 31px;
+}
+
+.footer-inner {
+   display: flex;
+}
+
+.razmer {
+   width: 132px;
+   height: 38px;
+   background: #FFFFFF;
+   margin-top: 20px;
+}
+
+.footer-telegram {
+   text-decoration: none;
+   color: #133C82;
+}

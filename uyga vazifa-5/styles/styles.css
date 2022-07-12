@@ -1,0 +1,85 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.text{
+   
+   text-align: center;
+   padding-bottom: 12px;
+}
+   .displey{
+   display: inline-block;
+}
+li{
+   display: inline-block;
+}
+ul{
+   display: inline-block;
+   text-indent: 100px;
+}
+.title{
+   width: 40%;
+  
+   
+
+} 
+div{
+ 
+  
+}
+.margin{
+   
+   text-align: center;
+}
+.padding{
+   width: 350px;
+   height: 350px;
+  
+   margin: 35px;
+   display: inline-block;
+   border-radius: 15px;
+   
+}
+.familye{
+   width: 350px;
+   height: 350px;
+   
+   display: inline-block;
+   margin: 35px;
+   border-radius: 15px;
+}
+.agect{
+   width: 350px;
+   height: 350px;
+  
+   display: inline-block;
+   margin: 35px;
+   border-radius: 15px;
+}
+.sanjar{
+   width: 350px;
+   height: 350px;
+   
+   display: inline-block;
+   margin: 35px;
+   border-radius: 15px;
+}
+.style{
+   width: 350px;
+   height: 350px;
+   
+   display: inline-block;
+   margin: 35px;
+   border-radius: 15px;
+}
+.class{
+   width: 350px;
+   height: 350px;
+   
+   display: inline-block;
+   margin: 35px;
+   border-radius: 15px;
+}
+.laptops{
+   margin: 15px;
+} 

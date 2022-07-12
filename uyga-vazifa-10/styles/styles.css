@@ -1,0 +1,434 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   background: rgb(218, 217, 216);
+}
+
+/* header-qismi */
+
+.container {
+   width: 1440px;
+   height: 332px;
+   margin: 0 auto;
+   background: rgb(233, 227, 227);
+}
+
+.header-inner {
+   display: flex;
+}
+
+.namanganliklar {
+   width: 329px;
+   height: 33px;
+   display: flex;
+   margin-left: 127px;
+   margin-top: 44px;
+   background: white;
+   justify-content: center;
+   align-items: center;
+   border-radius: 5px;
+}
+
+.lupa {
+   margin-left: 11px;
+   margin-top: 11px;
+}
+
+.header-top {
+   display: flex;
+}
+
+.header-top-left {
+   list-style-type: none;
+   margin-left: 18px;
+   margin-top: 49px;
+   color: #7A7A7A;
+}
+
+.search {
+   width: 38px;
+   height: 40px;
+   background: white;
+   margin-left: 311px;
+   margin-top: 39px;
+   justify-content: center;
+   align-items: center;
+}
+
+.russian-flag {
+   width: 64px;
+   height: 40px;
+   background: white;
+   margin-top: 40px;
+   margin-left: 21px;
+   justify-content: center;
+   align-items: center;
+}
+
+.flag {
+   margin-left: 11px;
+   margin-top: 8px;
+}
+
+.telagram {
+   width: 146px;
+   height: 40px;
+   margin-left: 23px;
+   margin-top: 40px;
+   border: none;
+   background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+   border-radius: 5px;
+}
+
+.get {
+   text-decoration: none;
+   color: white;
+}
+
+.header-top-style {
+   color: #285193;
+}
+
+nav {
+   width: 1200px;
+   height: 68px;
+   background: white;
+   margin-left: 119px;
+   margin-top: 44px;
+   border-radius: 5px;
+   color: #515151;
+}
+
+.header-text {
+   display: flex;
+   justify-content: center;
+}
+
+.header-text-inner {
+   list-style-type: none;
+   margin-left: 40px;
+   margin-top: 22px;
+   color: #515151;
+}
+
+.header-textstyles {
+   text-decoration: none;
+   color: #515151;
+}
+
+.colors {
+   color: #295091;
+}
+
+.text-imgs {
+   margin-left: 119px;
+   margin-top: 18px;
+   border-radius: 3px;
+}
+
+/* header */
+
+/* footer-qismi */
+
+.footer-container {
+   margin: 0 auto;
+   width: 1440px;
+   height: 240px;
+   background: #295093;
+}
+
+.namangan {
+   color: white;
+   text-decoration: none;
+}
+
+.naman {
+   margin-top: 18px;
+   margin-left: 119px;
+   border: none;
+   background: #133C82;
+   width: 194px;
+   height: 38px;
+   border-radius: 5px;
+}
+
+.nev-text {
+   display: flex;
+}
+
+.bu {
+   color: white;
+   margin-top: 30px;
+   margin-left: 198px;
+}
+
+.why-not {
+   width: 132px;
+   height: 38px;
+   background: #FFFFFF;
+   border-radius: 5px;
+   border: none;
+   margin-top: 20px;
+   margin-left: 17px;
+}
+
+.access {
+   color: #295093;
+   text-decoration: none;
+}
+
+.finish-text {
+   display: flex;
+}
+
+.finish-style {
+   color: white;
+}
+
+.finish {
+   margin-left: 119px;
+   margin-top: 38px;
+}
+
+.finish-one {
+   margin-top: 41px;
+   margin-left: 115px;
+}
+
+.finish-two {
+   margin-left: 120px;
+   margin-top: 41px;
+}
+
+/* section-qismi */
+
+.section-container {
+   display: flex;
+   margin: 0 auto;
+   width: 1440px;
+   height: 958px;
+   background: white;
+}
+
+.register-in-up {
+   display: flex;
+}
+
+.sign-up {
+   width: 720px;
+}
+
+.register {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 24px;
+   line-height: 28px;
+   color: #000000;
+   margin-top: 40px;
+   margin-left: 119px;
+}
+
+.text-input {
+   margin-left: 119px;
+   margin-top: 12px;
+   width: 600px;
+   height: 50px;
+   background: #F1F1F1;
+   opacity: 0.3;
+   border: 2px solid #285193;
+   border-radius: 5px;
+}
+
+.text-input-one {
+   margin-left: 119px;
+   margin-top: 20px;
+   width: 600px;
+   height: 50px;
+   background: #F1F1F1;
+   opacity: 0.3;
+   border: 2px solid #285193;
+   border-radius: 5px;
+}
+
+.textarea {
+   width: 600px;
+   height: 307px;
+   margin-top: 20px;
+   margin-left: 119px;
+   background: #F1F1F1;
+   opacity: 0.3;
+   border: 2px solid #285193;
+   border-radius: 5px;
+}
+
+.kod-manzil {
+   width: 221px;
+   height: 50px;
+   margin-left: 119px;
+   margin-top: 20px;
+   background: #FBFBFB;
+   opacity: 0.3;
+   border: 2px solid #285193;
+   border-radius: 5px;
+}
+
+.ochish {
+   text-decoration: none;
+   color: white;
+}
+
+.kirish {
+   width: 221px;
+   height: 50px;
+   background: #295093;
+   bolder: none;
+   background: #295093;
+   border-radius: 5px;
+   margin-left: 119px;
+   margin-top: 20px;
+}
+
+.up-inner {
+   width: 510px;
+   height: 280px;
+   margin-top: 75px;
+   margin-left: 90px;
+   border-radius: 5px;
+   background: white;
+   border: 2px solid #BCC3CD;
+   box-shadow: -10px 10px 10px rgb(173, 170, 170);
+}
+
+.text-styles {
+   width: 329px;
+   height: 33px;
+   margin-left: 185px;
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 28px;
+   line-height: 33px;
+   color: #295091;
+   text-decoration: none;
+}
+
+.namangan24 {
+   margin-top: 22px;
+}
+
+.recomendetion {
+   display: flex;
+   margin-top: 21px;
+   margin-left: 25px;
+}
+
+.styles-text-inner {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 21px;
+   color: #888888;
+   text-decoration: none;
+   margin-top: 30px;
+}
+
+.styles-text-inner-type {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 21px;
+   color: #888888;
+   text-decoration: none;
+}
+
+.one1{
+   margin-left: 60px;
+}
+
+.two2 {
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 21px;
+   color: #888888;
+   text-decoration: none;
+   margin-left: 21px;
+}
+
+.feizbook{
+   margin-left: 61px;
+   margin-top: 26px;
+   text-decoration: none;
+}
+
+.giva{
+   margin-left: 13px;
+   margin-top: 26px;
+   text-decoration: none;
+}
+
+.ok{
+   margin-left: 13px;
+   margin-top: 26px;
+   text-decoration: none;
+}
+
+.three1{
+   width: 150px;
+   height: 33px;
+   background: #295091;
+   border: none;
+   border-radius: 5px;
+   margin-top: 17px;
+   margin-left: 120px;
+}
+
+.four1{
+   text-decoration: none;
+   color: white;
+}
+
+.one-two{
+   width: 151px;
+   height: 34px;
+   margin-left: 6px;
+}
+
+.pley{
+   width: 230px;
+   height: 34px;
+   margin-top: 36px;
+   margin-left: 46px;
+}
+
+.gugle{
+   width: 111px;
+   height: 33px;
+   background: #D6DEEA;
+   border: none;
+   border-radius: 5px;
+}
+
+.gugle-pley{
+   text-decoration: none;
+}
+
+.apple{
+   width: 109px;
+   height: 33px;
+   background: #D6DEEA;
+   border: none;
+   border-radius: 5px;
+   margin-left: 5px;
+}
+
+.apple-pley{
+   text-decoration: none;
+}

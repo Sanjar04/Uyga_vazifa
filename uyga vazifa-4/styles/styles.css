@@ -1,0 +1,24 @@
+.text{
+   height: 40px;
+   text-align: center;
+   background:rgb(235, 66, 66)
+  }
+.inline{
+   width: 300px;  
+   text-align: center;
+   display: inline-block;
+   background:rgb(244, 242, 242)
+   
+}   
+.style{
+   text-align: center;
+  background:rgb(235, 66, 66)
+  
+}
+.height{
+   height: 400px;
+   background:rgb(235, 66, 66)
+   }
+   .sanjar{
+      color:rgb(235, 66, 66)
+   }

@@ -1,0 +1,25 @@
+body {
+   background-color: rgb(43, 148, 97);
+}
+
+.container {
+   width: 1100px;
+}
+.section-inner {
+   display: flex;
+}
+.first-div {
+   padding: 40px;
+   width: 200px;
+   background-color: #fff;
+
+}
+.first-div + .first-div {
+   margin-left: 30px;
+}
+.personal {
+}
+.paragraph {
+}
+.text {
+}
